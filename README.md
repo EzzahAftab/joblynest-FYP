@@ -103,9 +103,10 @@ The project fulfills the objectives of a Final Year Project and provides a scala
 
 ## 👩‍💻 Developed By
 
+- **Ezzah Aftab**
 - **Laiba Aimen**
 - **Marleen Ajmal**
-- **Ezzah Aftab**
+
 
 Final Year Project  
 Department of Computer Science
